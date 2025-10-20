@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Problems%20Solved-175%2B-blue" />
   <img src="https://img.shields.io/badge/Language-Java%20%7C%20Python-green" />
-  <img src="https://img.shields.io/badge/Platform-LeetCode-orange" />
+  <img src="https://img.shields.io/badge/Platform-LeetCode | HackerEarth | HackerRank-orange" />
 </p>
 
 ---
